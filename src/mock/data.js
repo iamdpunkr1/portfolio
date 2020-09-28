@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Online Exam Form Fillup',
     info: 'Technologies Used: HTML, CSS, Javascript & Firebase.',
-    info2: '',
+    info2: 'Online forms provide you with an easy to implement, secure solution to gather the data you need in a consistent automated manner.User-friendly, clear and instantly editable, web forms mean you can make the move to a paperless environment in a few easy steps.',
     url: 'https://aeiformfillup.web.app/',
     repo: 'https://github.com/iamdpunkr1/Exam-formfillup', // if no repo, the button will not show up
   },
@@ -61,12 +61,12 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'codepen',
-      url: '',
+      url: 'https://codepen.io/iamdpunkr1',
     },
     {
       id: uuidv1(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/dipankar-prasad-ba7a67197/',
+      url: 'https://www.linkedin.com/in/iamdpunkr',
     },
     {
       id: uuidv1(),
