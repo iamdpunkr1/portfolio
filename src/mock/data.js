@@ -11,14 +11,14 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Dipankar Prasad',
-  subtitle: 'I am a Jr. Computer Engineer',
+  subtitle: 'I am the Developer you need',
   cta: 'Hire me',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'Jr. Computer Engineer and Hard-working Full-stack web developer with a flair for creating elegant solutions in the least amount of time.',
+  paragraphOne: 'Web Developer with a flair for creating elegant solutions in the least amount of time.',
   paragraphTwo: 'Developed College Attendence system PWA and Online Exam Form Fillup website',
   paragraphThree: 'Passionate about building world class web applications.',
   resume: 'CV.pdf', // if no resume, the button will not show up
