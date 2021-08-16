@@ -26,6 +26,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+    {
+    id: uuidv1(),
+    img: 'project2.png',
+    title: 'Trippernity.io Web Design',
+    info: 'Technologies Used: HTML, CSS, Javascript.',
+    info2: 'Redesigned the trippernity.io website and added Metamask wallet option.',
+    url: 'http://www.trippernity.io//',
+   // if no repo, the button will not show up
+  },
   {
     id: uuidv1(),
     img: 'project1.png',
